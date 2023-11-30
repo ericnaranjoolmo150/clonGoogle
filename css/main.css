@@ -161,6 +161,12 @@ footer div{
     justify-content: space-between;
 }
 
+footer div div a{
+    color: #aaa;
+    margin: 10px;
+    text-decoration: none;
+}
+
 hr{
     border-color: #aaa;
 }
